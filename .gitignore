@@ -1,0 +1,8 @@
+# Node files installed via npm commands
+node_modules
+
+# Debug log on npm errors
+npm-debug.log
+
+# Bourbon suite in components folder
+source/sass/components
